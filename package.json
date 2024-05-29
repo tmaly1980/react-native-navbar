@@ -29,6 +29,7 @@
     "eslint-plugin-react": "^6.10.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "deprecated-react-native-prop-types": "^5.0.0"
   }
 }
