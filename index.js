@@ -6,7 +6,7 @@ import {
   Platform,
 } from 'react-native';
 import PropTypes from 'prop-types';
-import ViewPropTypes from './lib';
+import {ViewPropTypes} from 'deprecated-react-native-prop-types';
 
 import NavbarButton from './NavbarButton';
 import styles from './styles';
